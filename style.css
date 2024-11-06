@@ -63,11 +63,7 @@ nav .left div a{
 nav .left div a:hover{
     color: var(--primary);
 }
-.hero{
-   /* padding: 8rem 0 73px 0; */
-   /* padding-left: -50rem; */
 
-}
 .hero .right{
     margin-top: -8rem;
 }
@@ -92,6 +88,10 @@ nav .left div a:hover{
 }
 .hero .right button{
     margin-bottom:2rem;
+}
+.hero .right button a{
+  text-decoration: none;
+  color: var(--pure);
 }
 .hero .right button:hover{
     background: var(--primary);
@@ -159,7 +159,6 @@ section.work .container .card img{
 
 section.work .container .card .overlay{
     position: absolute;
-    /* padding: 4.5rem; */
     padding-right: 23rem;
     padding-bottom: 11.6rem;
     background: var(--primary);

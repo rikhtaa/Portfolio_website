@@ -20,6 +20,7 @@
     -ms-transition:all .3s ease;
     cursor: pointer;
 }
+
 .btn-primary{
     background: var(--primary);
     color: var(--dark);   
