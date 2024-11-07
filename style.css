@@ -179,6 +179,15 @@ section.work .container .card span{
     font-size:1.2rem; 
     color: var(--pure);
 }
+section.work .container .card h6{
+    cursor: pointer;
+    position: absolute;
+    top: 6.4rem;
+    left: 7.5rem;
+    font-size:1.2rem; 
+    color: var(--pure);
+}
+
 section.work .container .card a{
     text-decoration: none;
     color: var(--secondary);
